@@ -5,3 +5,5 @@ mla.egg-info/
 .cache
 .DS_Store
 *.swp
+*.xml
+*.iml
